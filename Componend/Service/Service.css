@@ -1,0 +1,176 @@
+.icon1 {
+  font-size: 50px;
+  color: #f8b90c;
+}
+.icon1 {
+  font-size: 50px;
+  color: #f8b90c;
+}
+.tf__design_text {
+  text-align: left;
+}
+.tf__design_text img {
+  text-align: left;
+  border-radius: 20px;
+}
+.tf__design_text .fa-solid {
+  color: #f8b90c;
+  margin-right: 15px;
+  font-size: 25px;
+  margin-top: 8px;
+}
+.cont {
+  margin-top: 20px;
+}
+.cont h3 {
+  margin-top: 30px;
+}
+.cont h4 {
+  margin-top: 20px;
+}
+.cont p {
+  margin-top: 20px;
+  color: #f8b90c;
+}
+
+/* *****  footer   ***** */
+.headfooter {
+  margin-top: 80px;
+}
+.mainicon {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+.headfooter{
+  background-color: #141c27;
+  height: auto;
+}
+
+.mainicon .icon1 .fa-brands {
+  padding: 10px;
+  font-size: 25px;
+  color: #000000;
+  background-color: white;
+  border-radius: 50px;
+  margin: 0 10px;
+}
+.mainicon .icon1 .fa-brands:hover {
+  transition: 1s;
+  color: #000000;
+  font-size: 25px;
+  background-color: #f8b90c;
+  border-radius: 50px;
+  margin: 0 10px;
+}
+
+.mainicon .icon1 .fa-solid {
+  padding: 10px;
+  font-size: 25px;
+  color: #000000;
+  background-color: white;
+  border-radius: 50px;
+  margin: 0 10px;
+}
+.mainicon .icon1 .fa-solid:hover {
+  transition: 1s;
+  color: #000000;
+  background-color: #f8b90c;
+  border-radius: 50px;
+}
+
+/* ------  header   ------- */
+.offcanvas-content-box h4{
+  color: #000000;
+}
+.offcanvas-content-box p{
+  color: #000000;
+}
+.offcanvas_title{
+  color: #000000;
+}
+.common_btn1 {
+  display: inline-flex;
+  padding: 20px 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background:  #000000;
+  color: white;
+  font-weight: 500;
+  transition: all 0.3s linear 0s;
+  text-decoration: none;
+  border-radius: 10px 10px 0 0;
+}
+
+.common_btn1:hover {
+  background: #ffffff;
+  color: black;
+}
+.contact-para{
+  color: #000000;
+}
+.has-animation1{
+  color: #000000;
+}
+
+/* subscribe */
+.has-animation{
+  color: #f8b90c;
+  text-align: justify;
+}
+.allicon{
+  font-size: 18px;
+  color: white !important;
+}
+
+/* about */
+.point{
+  text-align: left;
+}
+.point p{
+  text-align: justify;
+}
+.abs1{
+  margin-top: 100px;
+}
+.has-animation1{
+  color: #000000 !important;
+  text-align: left;
+}
+
+/* ****** what i do ****** */
+
+.whati{
+  margin: 40px 0;;
+}
+.whati h2{
+  color: #f8b90c;
+}
+.whatdo{
+  margin: 20px 0;
+  padding: 20px;
+}
+.whatdo2{
+  width: 98%;
+  border: 1px solid #202020;
+}
+.whatdo2 h3{
+  margin: 30px 0;
+  font-size: 20px;
+}
+.whatdo2 p{
+  margin: 30px 20px;
+}
+.whatdo2 .fa-solid{
+ color: #f8b90c;
+ margin: 15px 0;
+ font-size: 45px;
+}
+.has-animation{
+  text-align: center !important;
+}
+.has-animation1{
+  text-align: justify !important;
+}
